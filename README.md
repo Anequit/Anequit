@@ -35,6 +35,7 @@ Fractal Design Meshify C Black ATX</a></li>
 <ul>
     <li><a href="https://github.com/Anequit/SCD" target="_blank">SCD</a></li>
     <li><a href="https://github.com/Anequit/win-optimizer" target="_blank">win-optimizer</a></li>
+    <li><a href="https://github.com/Anequit/HashGenerator" target="_blank">HashGenerator</a></li>
 </ul>
 
 ### Contributions
