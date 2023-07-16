@@ -1,5 +1,5 @@
 ## About me
-I'm a 20 year old software engineera and a freshman in Uni working towards a Bachelor's degree in computer science. I started writing code in 2018 and I mainly work on desktop applications, but I do want to experiment with other forms of applications eventually. You can reach me by <a href="mailto:contact@anequit.com">email</a> and if you want to donate to me, then you can on <a href="https://ko-fi.com/Anequit" target="_blank">ko-fi</a>.
+I'm a 20 year old software engineer and a freshman in Uni working towards a Bachelor's degree in computer science. I started writing code in 2018 and I mainly work on desktop applications, but I do want to experiment with other forms of applications eventually. You can reach me by <a href="mailto:contact@anequit.com">email</a> and if you want to donate to me, then you can on <a href="https://ko-fi.com/Anequit" target="_blank">ko-fi</a>.
 
 <details>
 <summary>Workstation</summary>
