@@ -38,6 +38,8 @@ Fractal Design Meshify C Black ATX</a></li>
     <li><a href="https://github.com/Anequit/PasswordGenerator" target="_blank">PasswordGenerator</a></li>
     <li><a href="https://github.com/Anequit/winrar-activator" target="_blank">winrar-activator</a></li>
     <li><a href="https://github.com/Anequit/qBittorrentDiscordRelay" target="_blank">qBittorrentDiscordRelay</a></li>
+    <li><a href="https://github.com/Anequit/VencordHelper" target="_blank">VencordHelper</a></li>
+    <li><a href="https://github.com/Anequit/AudioImageEditor" target="_blank">AudioImageEditor</a></li>
 </ul>
 
 ### Contributions
