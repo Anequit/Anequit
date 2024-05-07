@@ -23,7 +23,7 @@ I'm a 21 year old software engineer and a freshman in Uni working towards a Bach
     <li>Monitor: Dell Alienware AW2724DM</li>
     <li>Monitor: MSI Optix G27C5</li>
     <li>Keyboard: Razer Huntsman V2 TKL</li>
-    <li>Mouse: Razer DeathAdder v2</li>
+    <li>Mouse: Razer DeathAdder V3 Pro</li>
     <li>Mousepad: Razer Gigantus V2</li>
     <li>Microphone: Razer Siren V2 Pro</li>
     <li>Headphones: Sennheiser HD 6XX</li>
