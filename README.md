@@ -1,5 +1,5 @@
 ## About me
-I'm a 21 year old software engineer and a freshman in Uni working towards a Bachelor's degree in computer science. I started writing code in 2018 and I mainly work on desktop applications, but I do want to experiment with other forms of applications eventually. If you want to donate you can on <a href="https://ko-fi.com/Anequit" target="_blank">ko-fi</a>.
+I'm a 21 year old software engineer and a freshman in Uni working towards a Bachelor's degree in computer science. I started writing code in 2018 and I mainly work on desktop applications, but I do want to experiment with other forms of applications eventually.
 
 <details>
 <summary>Workstation</summary>
