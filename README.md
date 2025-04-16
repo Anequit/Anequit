@@ -1,5 +1,5 @@
 ## About me
-I'm a 21 year old software engineer and a freshman in Uni working towards a Bachelor's degree in computer science. I started writing code in 2018 and I mainly work on desktop applications, but I do want to experiment with other forms of applications eventually.
+I primarily write c#, but dabble in other languages from time to time. 
 
 <details>
 <summary>Workstation</summary>
